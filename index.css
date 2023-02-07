@@ -33,7 +33,8 @@ body {
 
 header {
    color: rgb(25, 25, 94) ;
-    border-bottom: 1px solid #ECECEC;}
+    border-bottom: 1px solid #ECECEC;
+}
 
         .header__logo {
             margin-right: 93px;
